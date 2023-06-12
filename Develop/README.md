@@ -1,33 +1,35 @@
-# titlehere
+# professional README.md generator
 
 ## Description
 
-- description here
--  motivation here
-- reason of project  
-- problem solved 
-- learnt things 
-
+- generate a README file by using a command-line application
+- write motivation
+- reason for project
+- solved problem here
+- learn things here
 
 ## Installation
 
- step to install 
+steps required here
 
 ## Usage
- instructions and examples
+
+examples here
 
 ## Credits
 
- -collabos
+-collabos here
 
- -third party here 
+-third party assets here
 
- -tuto links 
+-followed tutorials here
+
+https://drive.google.com/file/d/1ZOmnGzRCzxBPbvlOpMKnHhWsUc4Uj6uy/view
 
 ## License
 
- used license 
+used license here
 
- ## Features
- 
- -project features 
+## Features
+
+-project features here
